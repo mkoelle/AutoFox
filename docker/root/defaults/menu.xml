@@ -4,6 +4,6 @@
 <item label="xterm" icon="/usr/share/pixmaps/xterm-color_48x48.xpm"><action name="Execute"><command>/usr/bin/xterm</command></action></item>
 <item label="FireFox" icon="/defaults/icons/firefox.jpeg"><action name="Execute"><command>/usr/bin/firefox</command></action></item>
 <item label="VSCode" icon="/defaults/icons/vscode.jpeg"><action name="Execute"><command>/usr/bin/code</command></action></item>
-<item label="Auto-Fox!" icon="/defaults/icons/dyno.jpeg"><action name="Execute"><command>/usr/bin/code</command></action></item>
+<item label="Auto-Fox!" icon="/defaults/icons/dyno.jpeg"><action name="Execute"><command>/usr/bin/node /app/index.js</command></action></item>
 </menu>
 </openbox_menu>
